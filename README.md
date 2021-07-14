@@ -10,6 +10,7 @@
 
 **14:**
 - [x] [Sorted Squarted Array](https://www.algoexpert.io/questions/Sorted%20Squared%20Array)
+- [x] [Tournament Winning](https://www.algoexpert.io/questions/Tournament%20Winner)
 
 ## Need to return in the future
 
@@ -17,7 +18,7 @@
 
 ## Total:
 
-- Solved: 3
+- Solved: 4
 - Solved with help: 0
 - Solved by myself but need attention: 0
 - Need to be done: 0
