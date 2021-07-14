@@ -12,6 +12,7 @@
 - [x] [Sorted Squarted Array](https://www.algoexpert.io/questions/Sorted%20Squared%20Array)
 - [x] [Tournament Winning](https://www.algoexpert.io/questions/Tournament%20Winner)
 - [x] [Find Closest Value In BST](https://www.algoexpert.io/questions/Find%20Closest%20Value%20In%20BST)
+- [x] [Node Depths](https://www.algoexpert.io/questions/Node%20Depths)
 
 ## Need to return in the future
 
@@ -19,7 +20,7 @@
 
 ## Total:
 
-- Solved: 5
+- Solved: 6
 - Solved with help: 0
 - Solved by myself but need attention: 0
 - Need to be done: 0
