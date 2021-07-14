@@ -4,6 +4,8 @@
 
 #### July:
 
+**13:**
+- [x] [Two Number Sum](https://www.algoexpert.io/questions/Two%20Number%20Sum)
 
 ## Need to return in the future
 
@@ -11,7 +13,7 @@
 
 ## Total:
 
-- Solved: 0
+- Solved: 1
 - Solved with help: 0
 - Solved by myself but need attention: 0
 - Need to be done: 0
