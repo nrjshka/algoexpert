@@ -17,13 +17,17 @@
 - [x] [Node Depths](https://www.algoexpert.io/questions/Node%20Depths)
 - [x] [Depth-first Search](https://www.algoexpert.io/questions/Depth-first%20Search)
 
+**15:**
+
+- [x] [Class Photos](https://www.algoexpert.io/questions/Class%20Photos)
+
 ## Need to return in the future
 
 ---
 
 ## Total:
 
-- Solved: 7
+- Solved: 8
 - Solved with help: 0
 - Solved by myself but need attention: 0
 - Need to be done: 0
