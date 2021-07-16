@@ -20,6 +20,11 @@
 **15:**
 
 - [x] [Class Photos](https://www.algoexpert.io/questions/Class%20Photos)
+- [x] [Tandem A Bicycle](https://www.algoexpert.io/questions/Tandem%20Bicycle)
+
+**16:**
+
+- [x] [Remove Duplicates From Linked List](https://www.algoexpert.io/questions/Remove%20Duplicates%20From%20Linked%20List)
 
 ## Need to return in the future
 
@@ -27,7 +32,7 @@
 
 ## Total:
 
-- Solved: 8
+- Solved: 9
 - Solved with help: 0
 - Solved by myself but need attention: 0
 - Need to be done: 0
