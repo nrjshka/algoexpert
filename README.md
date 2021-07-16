@@ -25,6 +25,7 @@
 **16:**
 
 - [x] [Remove Duplicates From Linked List](https://www.algoexpert.io/questions/Remove%20Duplicates%20From%20Linked%20List)
+- [x] [Nth Fibonacci](https://www.algoexpert.io/questions/Nth%20Fibonacci)
 
 ## Need to return in the future
 
