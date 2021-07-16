@@ -26,6 +26,7 @@
 
 - [x] [Remove Duplicates From Linked List](https://www.algoexpert.io/questions/Remove%20Duplicates%20From%20Linked%20List)
 - [x] [Nth Fibonacci](https://www.algoexpert.io/questions/Nth%20Fibonacci)
+- [x] [Product Sum](https://www.algoexpert.io/questions/Product%20Sum)
 
 ## Need to return in the future
 
@@ -33,7 +34,7 @@
 
 ## Total:
 
-- Solved: 9
+- Solved: 10
 - Solved with help: 0
 - Solved by myself but need attention: 0
 - Need to be done: 0
