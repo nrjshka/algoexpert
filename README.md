@@ -28,13 +28,17 @@
 - [x] [Nth Fibonacci](https://www.algoexpert.io/questions/Nth%20Fibonacci)
 - [x] [Product Sum](https://www.algoexpert.io/questions/Product%20Sum)
 
+**17:**
+
+- [x] [Binary Search](https://www.algoexpert.io/questions/Binary%20Search)
+
 ## Need to return in the future
 
 ---
 
 ## Total:
 
-- Solved: 10
+- Solved: 11
 - Solved with help: 0
 - Solved by myself but need attention: 0
 - Need to be done: 0
