@@ -32,13 +32,17 @@
 
 - [x] [Binary Search](https://www.algoexpert.io/questions/Binary%20Search)
 
+**18:**
+
+- [x] [Find Three Largest Numbers](https://www.algoexpert.io/questions/Find%20Three%20Largest%20Numbers)
+
 ## Need to return in the future
 
 ---
 
 ## Total:
 
-- Solved: 11
+- Solved: 12
 - Solved with help: 0
 - Solved by myself but need attention: 0
 - Need to be done: 0
