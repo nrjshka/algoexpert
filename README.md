@@ -43,7 +43,7 @@
 
 ## Total:
 
-- Solved: 13
+- Solved: 15
 - Solved with help: 0
 - Solved by myself but need attention: 0
 - Need to be done: 0
