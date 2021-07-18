@@ -36,6 +36,7 @@
 
 - [x] [Find Three Largest Numbers](https://www.algoexpert.io/questions/Find%20Three%20Largest%20Numbers)
 - [x] [Bubble Sort](https://www.algoexpert.io/questions/Bubble%20Sort)
+- [x] [Generate Document](https://www.algoexpert.io/questions/Generate%20Document)
 
 ## Need to return in the future
 
@@ -43,7 +44,7 @@
 
 ## Total:
 
-- Solved: 15
+- Solved: 16
 - Solved with help: 0
 - Solved by myself but need attention: 0
 - Need to be done: 0
