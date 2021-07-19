@@ -37,6 +37,8 @@
 - [x] [Find Three Largest Numbers](https://www.algoexpert.io/questions/Find%20Three%20Largest%20Numbers)
 - [x] [Bubble Sort](https://www.algoexpert.io/questions/Bubble%20Sort)
 - [x] [Generate Document](https://www.algoexpert.io/questions/Generate%20Document)
+- [x] [Run-Length Encoding](https://www.algoexpert.io/questions/Run-Length%20Encoding)
+- [x] [Three Number Sum](https://www.algoexpert.io/questions/Three%20Number%20Sum)
 
 ## Need to return in the future
 
@@ -44,7 +46,7 @@
 
 ## Total:
 
-- Solved: 16
+- Solved: 18
 - Solved with help: 0
 - Solved by myself but need attention: 0
 - Need to be done: 0
