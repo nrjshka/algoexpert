@@ -43,6 +43,7 @@
 **19:**
 
 - [x] [Smallest Difference](https://www.algoexpert.io/questions/Smallest%20Difference)
+- [x] [Move Element To End](https://www.algoexpert.io/questions/Move%20Element%20To%20End)
 
 ## Need to return in the future
 
@@ -50,7 +51,7 @@
 
 ## Total:
 
-- Solved: 19
+- Solved: 20
 - Solved with help: 0
 - Solved by myself but need attention: 0
 - Need to be done: 0
