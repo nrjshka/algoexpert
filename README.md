@@ -40,13 +40,17 @@
 - [x] [Run-Length Encoding](https://www.algoexpert.io/questions/Run-Length%20Encoding)
 - [x] [Three Number Sum](https://www.algoexpert.io/questions/Three%20Number%20Sum)
 
+**19:**
+
+- [x] [Smallest Difference](https://www.algoexpert.io/questions/Smallest%20Difference)
+
 ## Need to return in the future
 
 ---
 
 ## Total:
 
-- Solved: 18
+- Solved: 19
 - Solved with help: 0
 - Solved by myself but need attention: 0
 - Need to be done: 0
