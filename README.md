@@ -49,13 +49,17 @@
 
 - [x] [Monotonic Array](https://www.algoexpert.io/questions/Monotonic%20Array)
 
+**21:**
+
+- [x] [Array of Product](https://www.algoexpert.io/questions/Array%20Of%20Products)
+
 ## Need to return in the future
 
 ---
 
 ## Total:
 
-- Solved: 21
+- Solved: 22
 - Solved with help: 0
 - Solved by myself but need attention: 0
 - Need to be done: 0
