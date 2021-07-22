@@ -53,13 +53,17 @@
 
 - [x] [Array of Product](https://www.algoexpert.io/questions/Array%20Of%20Products)
 
+**22:**
+
+- [x] [Merge Overlapping Arrays](https://www.algoexpert.io/questions/Merge%20Overlapping%20Intervals)
+
 ## Need to return in the future
 
 ---
 
 ## Total:
 
-- Solved: 22
+- Solved: 23
 - Solved with help: 0
 - Solved by myself but need attention: 0
 - Need to be done: 0
