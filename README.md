@@ -57,13 +57,17 @@
 
 - [x] [Merge Overlapping Arrays](https://www.algoexpert.io/questions/Merge%20Overlapping%20Intervals)
 
+**24:**
+
+- [x] [BST Construction](https://www.algoexpert.io/questions/BST%20Construction)
+
 ## Need to return in the future
 
 ---
 
 ## Total:
 
-- Solved: 23
+- Solved: 24
 - Solved with help: 0
 - Solved by myself but need attention: 0
 - Need to be done: 0
