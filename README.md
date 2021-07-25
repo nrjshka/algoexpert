@@ -61,13 +61,17 @@
 
 - [x] [BST Construction](https://www.algoexpert.io/questions/BST%20Construction)
 
+**25:**
+
+- [x] [Validate BST](https://www.algoexpert.io/questions/Validate%20BST)
+
 ## Need to return in the future
 
 ---
 
 ## Total:
 
-- Solved: 24
+- Solved: 25
 - Solved with help: 0
 - Solved by myself but need attention: 0
 - Need to be done: 0
