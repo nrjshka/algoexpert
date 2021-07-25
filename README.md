@@ -64,6 +64,7 @@
 **25:**
 
 - [x] [Validate BST](https://www.algoexpert.io/questions/Validate%20BST)
+- [x] [Caesar Cipher Encryptor](https://www.algoexpert.io/questions/Caesar%20Cipher%20Encryptor)
 
 ## Need to return in the future
 
@@ -71,7 +72,7 @@
 
 ## Total:
 
-- Solved: 25
+- Solved: 26
 - Solved with help: 0
 - Solved by myself but need attention: 0
 - Need to be done: 0
